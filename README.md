@@ -4,6 +4,6 @@ A visualisation for my [blog post](https://prnvbn.dev/posts/packet-queueing/) on
 
 ## Demo
 
-<video src="docs/packet-queueing-demo.webm" controls muted loop></video>
+[![Packet queueing detection demo](docs/packet-queueing-demo.gif)](docs/packet-queueing-demo.webm)
 
-[Watch the demo video](docs/packet-queueing-demo.webm).
+[Watch the full WebM demo](docs/packet-queueing-demo.webm).
