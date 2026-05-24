@@ -4,11 +4,5 @@
   "assets": {
     "directory": "./dist",
     "not_found_handling": "404-page"
-  },
-  "routes": [
-    {
-      "pattern": "packet-queueing.prnvbn.dev",
-      "custom_domain": true
-    }
-  ]
+  }
 }
