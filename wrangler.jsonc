@@ -1,8 +1,14 @@
 {
- "name": "packet-queuing-ui",
- "compatibility_date": "2025-01-01",
- "assets": {
-   "directory": "./dist",
-   "not_found_handling": "404-page"
- }
+  "name": "packet-queuing-ui",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    {
+      "pattern": "packet-queueing.prnvbn.dev",
+      "custom_domain": true
+    }
+  ]
 }
